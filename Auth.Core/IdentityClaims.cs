@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kajware.ChannelManager.Auth.Core
+namespace Auth.Core
 {
     public class IdentityClaimTypes
     {
