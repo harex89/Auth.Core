@@ -59,3 +59,8 @@ Auth.core/.vs/Auth.Core/v16/Server/sqlite3/db.lock
 Auth.core/.vs/Auth.Core/v16/Server/sqlite3/storage.ide
 Auth.core/.vs/Auth.Core/v16/Server/sqlite3/storage.ide-shm
 Auth.core/.vs/Auth.Core/v16/Server/sqlite3/storage.ide-wal
+Auth.core/.vs/Auth.Core/DesignTimeBuild/.dtbcache
+Auth.core/.vs/Auth.Core/v16/.suo
+Auth.core/Auth.Core/bin/Release/Auth.Core.1.0.0.nupkg
+Auth.core/Auth.Core/obj/Release/Auth.Core.1.0.0.nuspec
+Auth.core/Auth.Core/obj/Release/netstandard2.0/Auth.Core.csprojAssemblyReference.cache
