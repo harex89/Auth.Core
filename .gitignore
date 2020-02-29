@@ -55,3 +55,7 @@ Auth.core/Auth.Core/obj/Release/netstandard2.0/Auth.Core.AssemblyInfoInputs.cach
 Auth.core/Auth.Core/obj/Release/netstandard2.0/Auth.Core.assets.cache
 Auth.core/Auth.Core/obj/Release/netstandard2.0/Auth.Core.csproj.FileListAbsolute.txt
 Auth.core/Auth.Core/obj/Release/netstandard2.0/Auth.Core.dll
+Auth.core/.vs/Auth.Core/v16/Server/sqlite3/db.lock
+Auth.core/.vs/Auth.Core/v16/Server/sqlite3/storage.ide
+Auth.core/.vs/Auth.Core/v16/Server/sqlite3/storage.ide-shm
+Auth.core/.vs/Auth.Core/v16/Server/sqlite3/storage.ide-wal
